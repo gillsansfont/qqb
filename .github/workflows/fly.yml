@@ -1,7 +1,7 @@
 name: Fly Deploy
 on:
   push:
-    branches: [ main ]
+    branches: [ main ]   # or master—match your default branch
 defaults:
   run:
     working-directory: server
