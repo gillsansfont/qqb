@@ -1,4 +1,4 @@
-app = "quantumblur-streamer"   # <— change if you prefer
+app = "qqb"   # <— change if you prefer
 primary_region = "fra"         # Frankfurt (near Basel); pick your favorite region
 
 [http_service]
